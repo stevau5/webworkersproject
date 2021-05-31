@@ -15,3 +15,7 @@ npm run serve
 ## performance without webworkers
 
 ![Screen Shot 2021-05-28 at 5 37 15 PM](https://user-images.githubusercontent.com/24571899/120229207-a0581f00-c21a-11eb-86aa-a37c97e1eaad.png)
+
+
+## performance with webworkers
+![Screen Shot 2021-05-31 at 2 17 36 PM](https://user-images.githubusercontent.com/24571899/120229353-f4fb9a00-c21a-11eb-9ed1-b911e9ec3195.png)
