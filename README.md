@@ -5,7 +5,11 @@ check the HelloWorld.vue component, on line 47 in the doComplexComputation funct
 
 ## Project setup
 ```
-npm install
+npm install 
+```
+
+```
+npm run serve
 ```
 
 ## performance without webworkers
