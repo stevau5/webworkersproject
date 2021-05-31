@@ -8,15 +8,6 @@ check the HelloWorld.vue component, on line 47 in the doComplexComputation funct
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## performance without webworkers
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![Screen Shot 2021-05-28 at 5 37 15 PM](https://user-images.githubusercontent.com/24571899/120229207-a0581f00-c21a-11eb-86aa-a37c97e1eaad.png)
